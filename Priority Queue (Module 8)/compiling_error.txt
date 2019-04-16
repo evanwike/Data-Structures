@@ -1,0 +1,11 @@
+In file included from /Users/Evan/CS_303-Code/Priority Queue (Module 8)/priorityQueue.cpp:1:
+/Users/Evan/CS_303-Code/Priority Queue (Module 8)/priorityQueue.h:17:16: warning: 'auto' type specifier is a C++11 extension [-Wc++11-extensions]
+    for (const auto &d : v)
+               ^
+/Users/Evan/CS_303-Code/Priority Queue (Module 8)/priorityQueue.h:17:24: warning: range-based for loop is a C++11 extension [-Wc++11-extensions]
+    for (const auto &d : v)
+                       ^
+/Users/Evan/CS_303-Code/Priority Queue (Module 8)/priorityQueue.cpp:45:19: error: no member named 'top' in 'std::__1::vector<int, std::__1::allocator<int> >'
+    v.push_back(q.top());
+                ~ ^
+2 warnings and 1 error generated.
