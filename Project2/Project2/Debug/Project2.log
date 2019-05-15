@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\evwik\data-structures\project2\project2\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\evwik\data-structures\project2\project2\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\evwik\data-structures\project2\project2\source.cpp(97): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\evwik\data-structures\project2\project2\source.cpp(96): warning C4101: 'oor': unreferenced local variable
+  Project2.vcxproj -> C:\Users\evwik\Data-Structures\Project2\Debug\Project2.exe
